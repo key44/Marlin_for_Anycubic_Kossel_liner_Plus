@@ -1,0 +1,2 @@
+# Marlin_for_Anycubic_Kossel_liner_Plus
+AnyCubic社Kossel Liner Plus用のファームウェア(Marlin)
